@@ -11,10 +11,11 @@
 
 <h2 align="center">Hola 👋 !! mi nombre es Melina, bienvenido a mi perfil</h2>
 <h4 align="center">soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻</h4>
+<p align="center"> <img src="https://media.giphy.com/media/cYk0Lr1kOI8vzLLRKa/giphy.gif" alt="pacman" width= 60px height= auto /></p>
 
 <h4 align="left">Conectate conmigo:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/melina-anabel-acosta-aa462092/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melina-anabel-acosta-aa462092/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/melina-anabel-acosta-aa462092/" target=_blank><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melina-anabel-acosta-aa462092/" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Idiomas y herramientas:</h4>
