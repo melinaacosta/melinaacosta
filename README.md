@@ -11,7 +11,7 @@
 
 <h2 align="center">Hola 👋 !! mi nombre es Melina, bienvenido a mi perfil</h2>
 <h4 align="center">soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻</h4>
-<p align="center"> <img src="https://media.giphy.com/media/cYk0Lr1kOI8vzLLRKa/giphy.gif" alt="pacman" /></p>
+<p> <img src="https://media.giphy.com/media/cYk0Lr1kOI8vzLLRKa/giphy.gif" alt="image" style="max-width:100%;"></p>
 
 <h4 align="left">Conectate conmigo:</h4>
 <p align="left">
