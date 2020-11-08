@@ -11,7 +11,7 @@
 
 <h2 align="center">Hola 👋 !! mi nombre es Melina, bienvenido a mi perfil</h2>
 <h4 align="center">soy Licenciada en Administración👩‍🎓, diseñadora 📌 y futura desarrolladora web 👩‍💻</h4>
-<a> <img src="/tenor.gif" alt="image" style="width:651px;"></a>
+<p align="center"><a> <img src="/tenor.gif" alt="image" style="width:100%;"></a></p>
 
 <h4 align="left">Conectate conmigo:</h4>
 <p align="left">
