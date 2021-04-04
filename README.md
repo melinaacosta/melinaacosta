@@ -20,10 +20,17 @@
 
 <h4 align="left">Competencias:</h4>
 - METODOLOGÍAS ÁGILES - SCRUM
+-->
 - NODE JS
+-->
 - HTML / CSS / JAVASCRIPT
+-->
 - API´S
+-->
 - BASES DE DATOS - MySQL
+-->
 - REACT
+-->
 - PHOTOSHOP E ILLUSTRATOR
+-->
 - DISEÑO WEB Y EXPERIENCIA DE USUARIO
