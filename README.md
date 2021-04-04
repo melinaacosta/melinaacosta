@@ -18,5 +18,12 @@
 <a href="https://www.linkedin.com/in/melina-acosta/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melina-anabel-acosta-aa462092/" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Idiomas y herramientas:</h4>
-<p align="left"> <i class="fab fa-css3-alt" alt="css3" width="40" height="40"></i><a href="https://www.flaticon.es/autores/pixel-perfect" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h4 align="left">Competencias:</h4>
+ METODOLOGÍAS ÁGILES - SCRUM
+ NODE JS
+ HTML / CSS / JAVASCRIPT
+ API´S
+BASES DE DATOS - MySQL
+REACT
+PHOTOSHOP E ILLUSTRATOR
+DISEÑO WEB Y EXPERIENCIA DE USUARIO
