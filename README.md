@@ -4,7 +4,7 @@
 ![Animated GIF-downsized_large](https://user-images.githubusercontent.com/73447224/98456456-a68e8d00-215c-11eb-8337-8bd19048fd33.gif)
 
 
-![Animated GIF-downsized_large](<iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-webdesign-coder-QssGEmpkyEOhBCb7e1"></a></p>)
+![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.mp4)
 [LINKEDIN](https://www.linkedin.com/in/melina-anabel-acosta-aa462092/)
 
 -->
