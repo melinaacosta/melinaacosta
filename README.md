@@ -1,12 +1,6 @@
- #### ¡Hola! 👋 mi nombre es Melina, soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻
+ #### ¡Hola! 👋 mi nombre es Melina, soy 📌👩‍💻 Desarrolladora Web Full Stack y Licenciada en Administración👩‍🎓
 **Este** es mi ✨ _repositorio remoto_ ✨ 
 ![Animated GIF#downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
-
-
-
-
-<h2 align="center">Hola 👋 !! mi nombre es Melina, bienvenido a mi perfil</h2>
-<h4 align="center">soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻</h4>
 <p align="center"><a> <img src="/tenor.gif" alt="image" style="width:100%;"></a></p>
 
 <h4 align="left">Conectate conmigo:</h4>
@@ -15,19 +9,21 @@
 </p>
 
 <h4 align="left">Competencias:</h4>
+
 # METODOLOGÍAS ÁGILES
+
 # SCRUM
-##
+
 # NODE JS
-##
+
 # HTML / CSS / JAVASCRIPT
-##
+
 # API´S
-##
+
 # BASES DE DATOS # MySQL
-##
+
 # REACT
-##
+
 # PHOTOSHOP E ILLUSTRATOR
-##
+
 # DISEÑO WEB Y EXPERIENCIA DE USUARIO
