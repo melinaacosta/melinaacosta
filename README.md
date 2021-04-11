@@ -1,6 +1,6 @@
  #### ¡Hola! 👋 mi nombre es Melina, soy 📌👩‍💻 Desarrolladora Web Full Stack y Licenciada en Administración👩‍🎓
 **Este** es mi ✨ _repositorio remoto_ ✨ 
-<p align="center"><img src="/tenor.gif" alt="image" style="height: 200px;"></p>
+<p align="center"><img src="/tenor.gif" alt="image"></p>
 
 <h4 align="left">Conectate conmigo:</h4>
 <p align="left">
