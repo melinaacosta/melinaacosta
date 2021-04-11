@@ -1,13 +1,9 @@
  #### ¡Hola! 👋 mi nombre es Melina, soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻
 **Este** es mi ✨ _repositorio remoto_ ✨ 
 ![Animated GIF#downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
-![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 
-![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
-[LINKEDIN](https://www.linkedin.com/in/melina-anabel-acosta-aa462092/)
 
--->
 
 <h2 align="center">Hola 👋 !! mi nombre es Melina, bienvenido a mi perfil</h2>
 <h4 align="center">soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻</h4>
