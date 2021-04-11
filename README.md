@@ -1,10 +1,10 @@
-<!-- > #### ¡Hola! 👋 mi nombre es Melina, soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻
+ #### ¡Hola! 👋 mi nombre es Melina, soy Licenciada en Administración👩‍🎓, diseñadora 📌 y desarrolladora web 👩‍💻
 **Este** es mi ✨ _repositorio remoto_ ✨ 
-![Animated GIF-downsized_large](https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif)
-![Animated GIF-downsized_large](https://user-images.githubusercontent.com/73447224/98456456-a68e8d00-215c-11eb-8337-8bd19048fd33.gif)
+![Animated GIF#downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 
-![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.mp4)
+![Animated GIF-downsized_large](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 [LINKEDIN](https://www.linkedin.com/in/melina-anabel-acosta-aa462092/)
 
 -->
@@ -19,18 +19,19 @@
 </p>
 
 <h4 align="left">Competencias:</h4>
-- METODOLOGÍAS ÁGILES - SCRUM
--->
-- NODE JS
--->
-- HTML / CSS / JAVASCRIPT
--->
-- API´S
--->
-- BASES DE DATOS - MySQL
--->
-- REACT
--->
-- PHOTOSHOP E ILLUSTRATOR
--->
-- DISEÑO WEB Y EXPERIENCIA DE USUARIO
+# METODOLOGÍAS ÁGILES
+# SCRUM
+##
+# NODE JS
+##
+# HTML / CSS / JAVASCRIPT
+##
+# API´S
+##
+# BASES DE DATOS # MySQL
+##
+# REACT
+##
+# PHOTOSHOP E ILLUSTRATOR
+##
+# DISEÑO WEB Y EXPERIENCIA DE USUARIO
