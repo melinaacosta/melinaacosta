@@ -3,9 +3,10 @@
 <p><em>Soy Desarrolladora Web <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>y Licenciada en Administración de la <a href="https://www.thoughtworks.com">Universidad de Buenos Aires</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!-- <img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230" data-canonical-src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" style="max-width:100%;"> -->
+<img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230">
 
 <h4 align="left">Conectate conmigo:</h4>
+
 [![Linkedin: melinaacosta](https://img.shields.io/badge/-melinaacosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melina-acosta/)](https://www.linkedin.com/in/melina-acosta/)
 [![GitHub Melina](https://img.shields.io/github/followers/melinaacosta?label=follow&style=social)](https://github.com/melinaacosta)
 
@@ -13,6 +14,11 @@
 
 
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
+
+
+
+
+
 
 
 
