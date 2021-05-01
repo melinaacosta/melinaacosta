@@ -3,7 +3,7 @@
 <p><em>Soy Desarrolladora Web <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>y Licenciada en Administración de la <a href="https://www.thoughtworks.com">Universidad de Buenos Aires</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230" data-canonical-src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" style="max-width:100%;">
+<!-- <img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230" data-canonical-src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" style="max-width:100%;"> -->
 
 <h4 align="left">Conectate conmigo:</h4>
 [![Linkedin: melinaacosta](https://img.shields.io/badge/-melinaacosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melina-acosta/)](https://www.linkedin.com/in/melina-acosta/)
