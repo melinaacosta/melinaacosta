@@ -4,7 +4,7 @@
 </em></p>
 
 
-<h4 align="left">Conectate conmigo:</h4>
+<h4 align="left">  Conectate conmigo:</h4>
 
 [![Linkedin: melinaacosta](https://img.shields.io/badge/-melinaacosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melina-acosta/)](https://www.linkedin.com/in/melina-acosta/)
 [![GitHub Melina](https://img.shields.io/github/followers/melinaacosta?label=follow&style=social)](https://github.com/melinaacosta)
@@ -15,29 +15,22 @@
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 
 
+#### METODOLOGÍAS ÁGILES
 
+#### SCRUM
 
+#### NODE JS
 
+#### HTML / CSS / JAVASCRIPT
 
+#### API´S
 
+#### BASES DE DATOS 
 
+#### MySQL
 
-### METODOLOGÍAS ÁGILES
+#### REACT
 
-### SCRUM
+#### PHOTOSHOP E ILLUSTRATOR
 
-### NODE JS
-
-### HTML / CSS / JAVASCRIPT
-
-### API´S
-
-### BASES DE DATOS 
-
-### MySQL
-
-### REACT
-
-### PHOTOSHOP E ILLUSTRATOR
-
-### DISEÑO WEB Y EXPERIENCIA DE USUARIO
+#### DISEÑO WEB Y EXPERIENCIA DE USUARIO
