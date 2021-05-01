@@ -1,6 +1,6 @@
 <h2> Hola, mi nombre es Melina! <img src="/tenor.gif" width="30"></h2>
 <img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230">
-<p><em>Soy Desarrolladora Web <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>y Licenciada en Administración de la <a href="#">Universidad de Buenos Aires</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Soy Desarrolladora Web <img src="https://media.giphy.com/media/PjgW1x7zKnRQdq1k3i/giphy.gif" width="30"></br>y Licenciada en Administración de la <a href="#">Universidad de Buenos Aires</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
