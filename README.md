@@ -25,7 +25,7 @@
 
 #### API´S
 
-#### BASES DE DATOS 
+#### ANGULAR
 
 #### MySQL
 
